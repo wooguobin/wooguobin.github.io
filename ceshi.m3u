@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯台
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文台
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 http://192.168.50.1:8899/rtp/235.254.199.51:7980
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
@@ -37,10 +33,33 @@ http://192.168.50.1:8899/rtp/235.254.199.61:7980
 http://192.168.50.1:8899/rtp/235.254.196.163:7980
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
 http://192.168.50.1:8899/rtp/235.254.199.130:7980
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1-CETV1
-http://192.168.50.1:8899/rtp/235.254.199.196:7980
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV-4K
 http://192.168.50.1:8899/rtp/235.254.199.102:7980
+##地方台
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆新闻
+http://192.168.50.1:8899/rtp/235.254.197.199:7980
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆社会
+http://192.168.50.1:8899/rtp/235.254.199.181:7980
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆生活
+http://192.168.50.1:8899/rtp/235.254.199.182:7980
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆文娱
+http://192.168.50.1:8899/rtp/235.254.199.187:7980
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆新农村
+http://192.168.50.1:8899/rtp/235.254.199.186:7980
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆少儿
+http://192.168.50.1:8899/rtp/235.254.199.166:7980
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆开州
+http://192.168.50.1:8899/rtp/235.254.199.203:7980
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆黔江
+http://192.168.50.1:8899/rtp/235.254.199.233:7980
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆交通
+http://192.168.50.1:8899/rtp/235.254.199.165:7980
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯台
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文台
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1-CETV1
+http://192.168.50.1:8899/rtp/235.254.199.196:7980
 #EXTINF:-1 group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",SiTV欢笑剧场4K
 http://192.168.50.1:8899/rtp/235.254.197.150:7980
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
@@ -103,22 +122,3 @@ CBN每日影院
 http://192.168.50.1:8899/rtp/235.254.199.192:7980
 金色学堂
 http://192.168.50.1:8899/rtp/235.254.197.157:7980
-##地方台
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆开州
-http://192.168.50.1:8899/rtp/235.254.199.203:7980
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆黔江
-http://192.168.50.1:8899/rtp/235.254.199.233:7980
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆交通
-http://192.168.50.1:8899/rtp/235.254.199.165:7980
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆少儿
-http://192.168.50.1:8899/rtp/235.254.199.166:7980
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆新闻
-http://192.168.50.1:8899/rtp/235.254.197.199:7980
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆社会
-http://192.168.50.1:8899/rtp/235.254.199.181:7980
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆生活
-http://192.168.50.1:8899/rtp/235.254.199.182:7980
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆文娱
-http://192.168.50.1:8899/rtp/235.254.199.187:7980
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆新农村
-http://192.168.50.1:8899/rtp/235.254.199.186:7980
