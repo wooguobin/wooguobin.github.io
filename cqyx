@@ -25,6 +25,12 @@ http://192.168.50.1:58888/cqyx.php?id=cqcarSD
 http://192.168.50.1:58888/cqyx.php?id=mryyHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆",重广融媒
 http://192.168.50.1:58888/cqyx.php?id=cqrongmei
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆",荣昌综合
+http://192.168.50.1:58888/cqyx.php?id=rongchangHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆",江津综合
+http://192.168.50.1:58888/cqyx.php?id=jiangjinHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆",铜梁综合
+http://192.168.50.1:58888/cqyx.php?id=tongliangzongheHD
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1综合高清
 http://192.168.50.1:58888/cqyx.php?id=cctv1HD
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2财经高清
@@ -35,6 +41,8 @@ http://192.168.50.1:58888/cqyx.php?id=cctv3HD
 http://192.168.50.1:58888/cqyx.php?id=cctv4HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
 http://192.168.50.1:58888/cqyx.php?id=cctv5HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
+http://192.168.50.1:58888/cqyx.php?id=cctv5SportHD
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6电影高清
 http://192.168.50.1:58888/cqyx.php?id=cctv6HD
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7国防军事高清
@@ -65,6 +73,30 @@ http://192.168.50.1:58888/cqyx.php?id=CCTV16_4K
 http://192.168.50.1:58888/cqyx.php?id=CCTV4K
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K超高清
 http://192.168.50.1:58888/cqyx.php?id=hxjc_4K
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-id="6241" tvg-name="CHC高清电影" group-title="数字付费",CHC高清电影
+http://192.168.50.1:58888/cqyx.php?id=chcgqdyHD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-id="6241" tvg-name="CHC高清电影" group-title="数字付费",CHC高清电影
+http://192.168.50.1:58888/cqyx.php?id=chcdzdyHD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-id="6245" tvg-name="CHC动作电影" group-title="数字付费",CHC动作电影
+http://192.168.50.1:58888/cqyx.php?id=chcdzdyHD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-id="6246" tvg-name="CHC家庭电影" group-title="数字付费",CHC家庭电影
+http://192.168.50.1:58888/cqyx.php?id=chcjtyyHD
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",兵器科技高清
+http://192.168.50.1:58888/cqyx.php?id=bqkjHD
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视",风云剧场高清
+http://192.168.50.1:58888/cqyx.php?id=fyjcHD
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视",怀旧剧场高清
+http://192.168.50.1:58888/cqyx.php?id=hjjcHD
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐高清
+http://192.168.50.1:58888/cqyx.php?id=fyyyHD
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",央视台球高清
+http://192.168.50.1:58888/cqyx.php?id=ystqHD
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",风云足球高清
+http://192.168.50.1:58888/cqyx.php?id=fyzqHD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" tvg-id="6569" tvg-name="央视精品" group-title="央视",央视文化精品高清
+http://192.168.50.1:58888/cqyx.php?id=yswhHD
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",高尔夫网球高清
+http://192.168.50.1:58888/cqyx.php?id=golfHD
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视高清
 http://192.168.50.1:58888/cqyx.php?id=anhuiSD
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
@@ -129,6 +161,10 @@ http://192.168.50.1:58888/cqyx.php?id=qinghaiSD
 http://192.168.50.1:58888/cqyx.php?id=xinjiangSD
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://192.168.50.1:58888/cqyx.php?id=xizangSD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
+http://192.168.50.1:58888/cqyx.php?id=xfjcHD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
+http://192.168.50.1:58888/cqyx.php?id=xfylHD 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://192.168.50.1:58888/cqyx.php?id=cgtnSD
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV-1
@@ -155,26 +191,10 @@ http://192.168.50.1:58888/cqyx.php?id=dsjcHD
 http://192.168.50.1:58888/cqyx.php?id=dmxcHD
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球高清
 http://192.168.50.1:58888/cqyx.php?id=mlzqHD
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",风云剧场高清
-http://192.168.50.1:58888/cqyx.php?id=fyjcHD
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录高清
 http://192.168.50.1:58888/cqyx.php?id=qsjlHD
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",兵器科技高清
-http://192.168.50.1:58888/cqyx.php?id=bqkjHD
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云高清
 http://192.168.50.1:58888/cqyx.php?id=yxfyHD
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",怀旧剧场高清
-http://192.168.50.1:58888/cqyx.php?id=hjjcHD
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",风云音乐高清
-http://192.168.50.1:58888/cqyx.php?id=fyyyHD
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球高清
-http://192.168.50.1:58888/cqyx.php?id=ystqHD
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",风云足球高清
-http://192.168.50.1:58888/cqyx.php?id=fyzqHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",央视文化精品高清
-http://192.168.50.1:58888/cqyx.php?id=yswhHD
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",高尔夫网球高清
-http://192.168.50.1:58888/cqyx.php?id=golfHD
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",早期教育高清
 http://192.168.50.1:58888/cqyx.php?id=zaojiaoHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经高清
